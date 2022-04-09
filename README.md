@@ -3,9 +3,9 @@
 <img src="https://c.tenor.com/jr1MtHkypYUAAAAC/nature-whaleshark.gif" alt="drawing" width="100%"/>
 
 # Table of Contents
-1. [Background](#🚧-1-background🚧-1-background)
-2. [Instructions](#🚦-2-instructions🚦-2-instructions)
-3. [Results](#🛣️-3-results)
+1. [Background](#-1-background)
+2. [Instructions](#-2-instructions)
+3. [Results](#-3-results)
 
 ## [🚧 1. Background](#🚧-1-background)
 
