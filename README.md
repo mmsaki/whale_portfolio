@@ -4,7 +4,7 @@
 
 # Table of Contents
 1. [Background](#-1-background)
-2. [Instructions](#-2-instructions)
+2. [My Analysis](#-2-my-analysis)
 3. [Results](#%EF%B8%8F-3-results)
 
 ## [🚧 1. Background](#🚧-1-background)
@@ -20,7 +20,7 @@
     * Underperforms 
     * Or Equally perfroms 
 
-## [🚦 2. Instructions](#🚦-2-instructions)
+## [🚦 2. My Analysis](#🚦-2-my-analysis)
 * Analyze whale Returns of Soros, Paulson,Tiger and Berkshire 
     * Read the Whale Portfolio daily returns and clean the data 
     ![Whale Data Analysis](./images/whale_portfolio.png)
