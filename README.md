@@ -5,29 +5,29 @@
 # Table of Contents
 1. Background
 2. Instructions
+3. Results
 
 ## [🚧 1. Background](#🚧-1-background)
 
-* Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
+* I just learned these quantitative analysis techniques with Python and Pandas, the goal is to help you determine which portfolio is performing the best across multiple areas:
+    * volatility
+    * returns
+    * risk 
+    * Sharpe ratios
+* This python code compares [my custom portfolio](/whale_portfolio/custom_portfolio/) to [the whales](/whale_portfolio/Resources/whale_returns.csv) and [two alogorithmic trading strategies](/whale_portfolio/Resources/algo_returns.csv). 
 
-* You just learned these quantitative analysis techniques with Python and Pandas, so Harold has come to you with a challenge—to help him determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
-
-* You need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others. You will be given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds. You will then use this analysis to create a custom portfolio of stocks and compare its performance to that of the other portfolios, as well as the larger market ([S&P 500 Index](https://en.wikipedia.org/wiki/S%26P/TSX_60)).
-
-* For this homework assignment, you have three main tasks:
-    * Read in and Wrangle Returns Data
-    * Determine Success of Each Portfolio
-    * Choose and Evaluate a Custom Portfolio
+* This code compares if your custom portfolio: 
+    * Outperforms
+    * Underperforms 
+    * Equally perfroms 
+        * if the portfolio doesn't meet the criteria it will print `sorry, you are not eligible to be compete with the whales.` 
 
 ---
 
 ## [🚦 2. Instructions](#🚦-2-instructions)
-
-**File:** [Whale Analysis](/whale_portfolio/whale_analysis.ipynb)
-
-* Whale Returns of Soros, Paulson,Tiger and Berkshire 
+* Analyze whale Returns of Soros, Paulson,Tiger and Berkshire 
     * Read the Whale Portfolio daily returns and clean the data 
-* Algorithmic 1 and Algorithmic 2 Daily Returns
+* Analyze Algorithm 1 and Algorithm 2 Daily Returns
     * Read the algorithmic daily returns and clean the data
 * S&P 500 Returns
     * Read the S&P 500 historic closing prices and create a new daily returns DataFrame from the data.
@@ -47,9 +47,9 @@
     * Analyze the rolling statistics for Risk and Beta.
         * Calculate and plot the rolling standard deviation for all portfolios using a 21-day window
         * Calculate the correlation between each stock to determine which portfolios may mimick the S&P 500
-        * Choose one portfolio, then calculate and plot the 60-day rolling beta between it and the S&P 500
+    * Choose one portfolio, then calculate and plot the 60-day rolling beta between it and the S&P 500
     * Calculate and Plot Beta for a chosen portfolio and the S&P 500
-        *  Try calculating the ewm with a 21-day half life for each portfolio, using standard deviation (std) as the metric of interest.
+        *  Try calculating the `ewm` with a 21-day half life for each portfolio, using standard deviation (std) as the metric of interest.
     * Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot
         * Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios.
 * Create Custom Portfolio
@@ -61,3 +61,7 @@
     * Calculate and Plot Rolling 60-day Beta for Your Portfolio compared to the S&P 500
     * Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot
     * How does your portfolio do?
+
+## [🛣️ 3. Results]()
+* **File:** [Whale Analysis](/whale_portfolio/whale_analysis.ipynb)
+
