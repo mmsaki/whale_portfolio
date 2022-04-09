@@ -18,7 +18,7 @@
 * This code compares if my custom portfolio: 
     * Outperforms
     * Underperforms 
-    * Equally perfroms 
+    * Or Equally perfroms 
 
 ## [🚦 2. Instructions](#🚦-2-instructions)
 * Analyze whale Returns of Soros, Paulson,Tiger and Berkshire 
