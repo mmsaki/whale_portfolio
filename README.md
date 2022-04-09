@@ -1,4 +1,4 @@
-# 🐳 A Whale Portfolio analysis
+# 🐳 Whale Portfolio Analysis
 
 <img src="https://c.tenor.com/jr1MtHkypYUAAAAC/nature-whaleshark.gif" alt="drawing" width="100%"/>
 
@@ -70,7 +70,7 @@
 * Calculate the Sharpe ratios and generate a bar plot.
     * How does my portfolio do?
     ![My Portfolio Results](./images/my_results.png)
-    
+
 ## [🛣️ 3. Results](#🛣️-3-results)
 * **File:** [Whale Analysis](./whale_analysis.ipynb)
 
