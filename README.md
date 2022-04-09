@@ -53,8 +53,8 @@
 * Sharpe ratio analysis
     * Calculate the Sharpe ratios and generate a bar plot
     ![Sharpe Ratios](./images/sharpe_ratios.png)
-    * Determine whether the algorithmic 1 strategies outperform both the market (S&P 500) and the whales portfolios.
-    * Determine whether the algorithmic 2 strategies outperform both the market (S&P 500) and the whales portfolios. ![Algo_vs_whales](./images/algo_vs_whales.png)
+* Determine whether the algorithmic strategies outperform both the market (S&P 500) and the whales portfolios.
+![Algorism Performace](./images/algorithm_performance.png)
 * Create Custom Portfolio
     * Choose 3-5 custom stocks with at last 1 year's worth of historic prices and create a DataFrame of the closing prices and dates for each stock.
     ![Custom Stocks](./images/custom_stocks.png)
@@ -64,12 +64,13 @@
     * Calculate the Annualized Standard Deviation.
     * Calculate and plot rolling `std` with a 21-day window.
     * Calculate and plot the correlation.
-        ![Joined Correlations](./images/joined_correlations.png)
     * Calculate and plot beta for your portfolio compared to the S&P 60 TSX.
-    * Calculate the Sharpe ratios and generate a bar plot.
-        ![Joined Beta Sharpe](./images/joined_beta_sharpe.png)
-* How does my portfolio do?
+        ![Joined Correlations](./images/custom_beta.png)
+
+* Calculate the Sharpe ratios and generate a bar plot.
+    * How does my portfolio do?
     ![My Portfolio Results](./images/my_results.png)
+    
 ## [🛣️ 3. Results](#🛣️-3-results)
 * **File:** [Whale Analysis](./whale_analysis.ipynb)
 
