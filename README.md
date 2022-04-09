@@ -14,7 +14,7 @@
     * returns
     * risk 
     * Sharpe ratios
-* This python code compares [my custom portfolio](/whale_portfolio/custom_portfolio/) to [the whales](/whale_portfolio/Resources/whale_returns.csv) and [two alogorithmic trading strategies](/whale_portfolio/Resources/algo_returns.csv). 
+* This python code compares [my custom portfolio](/custom_portfolio/) to [the whales](/Resources/whale_returns.csv) and [two alogorithmic trading strategies](/Resources/algo_returns.csv). 
 
 * This code compares if your custom portfolio: 
     * Outperforms
@@ -63,5 +63,5 @@
     * How does your portfolio do?
 
 ## [🛣️ 3. Results]()
-* **File:** [Whale Analysis](/whale_portfolio/whale_analysis.ipynb)
+* **File:** [Whale Analysis](./whale_analysis.ipynb)
 
