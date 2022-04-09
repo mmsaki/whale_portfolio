@@ -9,7 +9,7 @@
 
 ## [🚧 1. Background](#🚧-1-background)
 
-* I just learned these quantitative analysis techniques with Python and Pandas, the goal is to help you determine which portfolio is performing the best across multiple areas:
+* I just learned these quantitative analysis techniques with Python and Pandas, the goal is to determine which portfolio is performing the best across multiple areas:
     * volatility
     * returns
     * risk 
