@@ -18,8 +18,7 @@
 * This code compares if my custom portfolio: 
     * Outperforms
     * Underperforms 
-    * Or Equally perfroms 
-        * if the portfolio doesn't meet the criteria it will print `sorry, you are not eligible to compete with the whales.` 
+    * Equally perfroms 
 
 ## [🚦 2. Instructions](#🚦-2-instructions)
 * Analyze whale Returns of Soros, Paulson,Tiger and Berkshire 
