@@ -20,7 +20,7 @@
     * Outperforms
     * Underperforms 
     * Equally perfroms 
-        * if the portfolio doesn't meet the criteria it will print `sorry, you are not eligible to be compete with the whales.` 
+        * if the portfolio doesn't meet the criteria it will print `sorry, you are not eligible to compete with the whales.` 
 
 ---
 
