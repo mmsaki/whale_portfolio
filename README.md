@@ -5,7 +5,7 @@
 # Table of Contents
 1. [Background](#-1-background)
 2. [Instructions](#-2-instructions)
-3. [Results](#-3-results)
+3. [Results](#%EF%B8%8F-3-results)
 
 ## [🚧 1. Background](#🚧-1-background)
 
