@@ -16,10 +16,10 @@
     * Sharpe ratios
 * This python code compares [my custom portfolio](/custom_portfolio/) to [the whales](/Resources/whale_returns.csv) and [two alogorithmic trading strategies](/Resources/algo_returns.csv). 
 
-* This code compares if your custom portfolio: 
+* This code compares if my custom portfolio: 
     * Outperforms
     * Underperforms 
-    * Equally perfroms 
+    * Or Equally perfroms 
         * if the portfolio doesn't meet the criteria it will print `sorry, you are not eligible to compete with the whales.` 
 
 ---
