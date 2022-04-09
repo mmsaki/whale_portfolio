@@ -1,11 +1,12 @@
 # 🐳 A Whale Portfolio analysis
 
-# Table of Contents
-1. Assignemnt background
-2. Instructions
-3. Results
+<img src="https://c.tenor.com/jr1MtHkypYUAAAAC/nature-whaleshark.gif" alt="drawing" width="100%"/>
 
-## 🚧 1. Background
+# Table of Contents
+1. Background
+2. Instructions
+
+## [🚧 1. Background](#🚧-1-background)
 
 * Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
@@ -20,7 +21,7 @@
 
 ---
 
-## 🚦	 2. Instructions
+## [🚦 2. Instructions](#🚦-2-instructions)
 
 **File:** [Whale Analysis](/whale_portfolio/whale_analysis.ipynb)
 
