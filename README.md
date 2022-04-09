@@ -62,6 +62,6 @@
     * Using the daily returns, calculate and visualize the Sharpe ratios using a bar plot
     * How does your portfolio do?
 
-## [🛣️ 3. Results]()
+## [🛣️ 3. Results](#🛣️-3-results)
 * **File:** [Whale Analysis](./whale_analysis.ipynb)
 
