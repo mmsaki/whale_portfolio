@@ -9,7 +9,7 @@
 
 ## [1. Background](#1-background)
 
-* Using Python and Pandas to determine which portfolio is performing the best across multiple areas:
+* Use Python and Pandas to determine which portfolio is performing the best across multiple areas:
     * volatility
     * returns
     * risk 
